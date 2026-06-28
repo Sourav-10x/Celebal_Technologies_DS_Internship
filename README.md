@@ -24,7 +24,7 @@ Passionate about Data Science, Machine Learning, Generative AI, and Agentic AI.
 ## Internship Progress
 
 - [x] Week 1 Assignment Completed
-- [ ] Week 2 Assignment
+- [x] Week 2 Assignment
 - [ ] Week 3 Assignment
 - [ ] Week 4 Assignment
 - [ ] Week 5 Assignment
