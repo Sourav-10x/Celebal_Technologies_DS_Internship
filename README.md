@@ -26,8 +26,8 @@ Passionate about Data Science, Machine Learning, Generative AI, and Agentic AI.
 - [x] Week 1 Assignment 
 - [x] Week 2 Assignment
 - [x] Week 3 Assignment
-- [ ] Week 4 Assignment
-- [ ] Week 5 Assignment
+- [x] Week 4 Assignment
+- [x] Week 5 Assignment
 - [ ] Week 6 Assignment
 - [ ] Week 7 Assignment
 - [ ] Week 8 Assignment
