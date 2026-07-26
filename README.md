@@ -6,6 +6,8 @@ This repository contains my weekly assignments and tasks completed during the Ce
 
 - Week1/
   - Week1_Sourav_Mahanty.ipynb
+- Week2/
+  - Week2_Sourav_Mahanty.ipynb
 
 ## About Me
 
@@ -28,7 +30,7 @@ Passionate about Data Science, Machine Learning, Generative AI, and Agentic AI.
 - [x] Week 3 Assignment
 - [x] Week 4 Assignment
 - [x] Week 5 Assignment
-- [ ] Week 6 Assignment
+- [x] Week 6 Assignment
 - [ ] Week 7 Assignment
 - [ ] Week 8 Assignment
 - [ ] Major Project
