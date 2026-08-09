@@ -37,4 +37,10 @@ Passionate about Data Science, Machine Learning, Generative AI, and Agentic AI.
 
 ## 🚀 Live Demo
 
-🔗 [Try Alexa AI Study Assistant](https://celebal-technologies-ds-internship.onrender.com/)
+🔗 [Try Alexa AI Study Assistant](https://celebal-technologies-ds-internship.onrender.com/)  
+
+## ⚠️ Deployment Notes
+
+- The live demo is hosted on Render's free tier, so the service may take around 50 seconds or more to respond after a period of inactivity due to cold starts.
+- AI-powered features such as RAG responses, summaries, quizzes, and flashcards may take additional processing time depending on server resources.
+- Uploaded documents are stored in the application's runtime environment and may need to be uploaded again after a server restart or redeployment.
