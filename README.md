@@ -31,6 +31,10 @@ Passionate about Data Science, Machine Learning, Generative AI, and Agentic AI.
 - [x] Week 4 Assignment
 - [x] Week 5 Assignment
 - [x] Week 6 Assignment
-- [ ] Week 7 Assignment
-- [ ] Week 8 Assignment
-- [ ] Major Project
+- [x] Week 7 Assignment
+- [x] Week 8 Assignment
+- [x] Major Project
+
+## 🚀 Live Demo
+
+🔗 [Try Alexa AI Study Assistant](https://celebal-technologies-ds-internship.onrender.com)
