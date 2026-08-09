@@ -37,4 +37,4 @@ Passionate about Data Science, Machine Learning, Generative AI, and Agentic AI.
 
 ## 🚀 Live Demo
 
-🔗 [Try Alexa AI Study Assistant](https://celebal-technologies-ds-internship.onrender.com)
+🔗 [Try Alexa AI Study Assistant](https://celebal-technologies-ds-internship.onrender.com/)
