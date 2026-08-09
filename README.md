@@ -3,11 +3,37 @@
 This repository contains my weekly assignments and tasks completed during the Celebal Technologies Data Science Internship.
 
 ## Structure
-
 - Week1/
   - Week1_Sourav_Mahanty.ipynb
 - Week2/
   - Week2_Sourav_Mahanty.ipynb
+- Week3/
+  - Week3_Sourav_Mahanty.ipynb
+- Week4/
+  - Week4_Sourav_Mahanty.ipynb
+- Week5/
+  - Week5_Sourav_Mahanty.ipynb
+- Week6/
+  - Week6_SouravMahanty.ipynb
+- Week7/
+  - Week7_SouravMahanty.ipynb
+- Week8/
+  - Week8_Sourav_Mahanty.ipynb
+- Major_Project/
+  - app.py
+  - rag_engine.py
+  - requirements.txt
+  - .gitignore
+  - sample_notes/
+    - ai_rag_study_guide.txt
+  - static/
+    - css/
+      - styles.css
+    - js/
+      - app.js
+  - templates/
+    - index.html
+
 
 ## About Me
 
@@ -35,11 +61,11 @@ Passionate about Data Science, Machine Learning, Generative AI, and Agentic AI.
 - [x] Week 8 Assignment
 - [x] Major Project
 
-## 🚀 Live Demo
+##  Live Demo
 
 🔗 [Try Alexa AI Study Assistant](https://celebal-technologies-ds-internship.onrender.com/)  
 
-## ⚠️ Deployment Notes
+##  Deployment Notes
 
 - The live demo is hosted on Render's free tier, so the service may take around 50 seconds or more to respond after a period of inactivity due to cold starts.
 - AI-powered features such as RAG responses, summaries, quizzes, and flashcards may take additional processing time depending on server resources.
